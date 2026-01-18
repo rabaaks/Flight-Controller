@@ -518,7 +518,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "../../Downloads/flight controller.dsn",
-      "step": "flight controller.glb",
+      "step": "flight controller.stl",
       "svg": "",
       "vrml": ""
     },
@@ -626,7 +626,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/Aakash/Downloads/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
