@@ -518,7 +518,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "../../Downloads/flight controller.dsn",
-      "step": "flight controller.stl",
+      "step": "flight controller.glb",
       "svg": "",
       "vrml": ""
     },

@@ -5951,7 +5951,7 @@
 			(uuid "6f4e6d92-4b4f-4ee3-9737-eeaab1d0f2ce")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6372,7 +6372,7 @@
 			(uuid "482e27fd-f723-4579-a87d-92631242206a")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6570,7 +6570,7 @@
 			(effects
 				(font
 					(size 0.5 0.5)
-					(thickness 0.125)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7440,7 +7440,7 @@
 			(uuid "8f0e91f1-c7e4-42ba-9cc3-7245895a02fb")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8904,7 +8904,7 @@
 			(uuid "772ff0f5-bf9d-41e7-a8c8-435d69f5c1be")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -9302,7 +9302,7 @@
 			(uuid "ce6d1331-ea5c-4a72-b682-9a98b3bccd50")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15167,7 +15167,7 @@
 			(uuid "55b11f67-e948-4182-9041-613ba072e551")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -16774,7 +16774,7 @@
 			(uuid "dadea7ab-44a8-4879-a2ae-db5298feaef5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -22403,7 +22403,7 @@
 			(uuid "7a244179-f3ac-4067-ab83-008ae1dbd67d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -23520,7 +23520,7 @@
 			(uuid "298a2621-7038-4e93-8751-fc9d18adbdb7")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -28444,7 +28444,7 @@
 			(uuid "f2f03fef-245f-4430-ae38-2bb39a167c0d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -29680,7 +29680,7 @@
 			(uuid "b7a3c04a-9ef1-45d8-99c6-8c55131c12bd")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -31305,7 +31305,7 @@
 			(uuid "bf12e44f-35b9-4906-b40f-37bd2682de67")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -32549,12 +32549,12 @@
 		(uuid "d6393fb2-4254-450d-ae51-17cbb6d2301f")
 	)
 	(gr_text "flight controller"
-		(at 131.75 145 0)
+		(at 140.5 144.75 0)
 		(layer "F.SilkS")
 		(uuid "633921fc-acf2-48f9-8432-cd6e1cef2726")
 		(effects
 			(font
-				(size 2.5 2.5)
+				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
 			)
