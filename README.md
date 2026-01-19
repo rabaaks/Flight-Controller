@@ -6,7 +6,7 @@ This is a custom flight controller and camera system that I designed to be used 
 
 * STM32H743 Microcontroller
 * BMP388 Pressure Sensor
-* LIS3MDLTR Magnetometetr
+* QMC5883 Magnetometeter
 * ICM-42688 IMU
 * OSD using MAX7456
 * LED Strip
@@ -15,6 +15,8 @@ This is a custom flight controller and camera system that I designed to be used 
 * 6 UARTs and 1 I2C
 
 ## Schematic
+
+![Schematic](images/schematic.png)
 
 ## PCB
 
@@ -25,11 +27,7 @@ This is a custom flight controller and camera system that I designed to be used 
 
 ![PCB Render](images/pcb%20render.png)
 
-## Schematic
-
-![Schematic](images/schematic.png)
-
-I also designed a basic camera system to be used with it, using RX5808 and TX5823 modules. It uses a camera and display from a car backup camera system which was a low cost option that uses analog video.
+I also designed a basic camera system to be used with it, using RX5808 and TX5823S modules. It uses a camera and display from a car backup camera system which was a low cost option that uses analog video. The camera and display require 12v, while the radio modules require 5v, so some voltage conversion is necessary. This circuit will be assembled on 0.1" pitch perfboard.
 
 ![Camera Wiring](images/camera%20wiring.png)
 
