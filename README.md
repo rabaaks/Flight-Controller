@@ -1,6 +1,6 @@
 # Custom Flight Controller
 
-This is a custom flight controller and camera system that I  designed to be used with Ardupilot for a drone or airplane. 
+This is a custom flight controller and camera system that I designed to be used with Ardupilot for a drone or airplane. 
 
 ## Features
 
