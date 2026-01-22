@@ -14802,7 +14802,7 @@
 		)
 		(uuid "030d039c-3898-4137-809b-ea6f3cde9536")
 	)
-	(label "M5"
+	(label "M1"
 		(at 337.82 172.72 0)
 		(effects
 			(font
@@ -14922,7 +14922,7 @@
 		)
 		(uuid "17746333-2080-48ce-844e-831739161f1d")
 	)
-	(label "M7"
+	(label "M9"
 		(at 393.7 172.72 180)
 		(effects
 			(font
@@ -14932,7 +14932,7 @@
 		)
 		(uuid "17e4caf4-8aeb-431f-88ab-a2875d70c3ef")
 	)
-	(label "M6"
+	(label "M5"
 		(at 337.82 175.26 0)
 		(effects
 			(font
@@ -14982,7 +14982,7 @@
 		)
 		(uuid "2389c8f4-c7f2-4c26-9471-01ee612a9c0a")
 	)
-	(label "M1"
+	(label "M4"
 		(at 339.09 127 0)
 		(effects
 			(font
@@ -15062,7 +15062,7 @@
 		)
 		(uuid "2f87e21a-1838-4f59-9b76-8adcaa0a8344")
 	)
-	(label "A4"
+	(label "A1"
 		(at 392.43 88.9 180)
 		(effects
 			(font
@@ -15192,7 +15192,7 @@
 		)
 		(uuid "40d5c68e-6201-4993-bcdf-d75d7e6876da")
 	)
-	(label "A2"
+	(label "A7"
 		(at 392.43 83.82 180)
 		(effects
 			(font
@@ -15292,7 +15292,7 @@
 		)
 		(uuid "4ce7cd81-7652-44b8-af87-96ba1a88204f")
 	)
-	(label "A8"
+	(label "A3"
 		(at 392.43 116.84 180)
 		(effects
 			(font
@@ -15342,7 +15342,7 @@
 		)
 		(uuid "53cae88a-9b40-403b-9333-b3b9e7c6ab00")
 	)
-	(label "A7"
+	(label "A4"
 		(at 392.43 114.3 180)
 		(effects
 			(font
@@ -15402,7 +15402,7 @@
 		)
 		(uuid "5ced97c6-8d16-47c4-956b-434f329fff9d")
 	)
-	(label "M4"
+	(label "M12"
 		(at 392.43 142.24 180)
 		(effects
 			(font
@@ -15802,7 +15802,7 @@
 		)
 		(uuid "937b4e86-ede3-4240-804e-5aa39e00f8f4")
 	)
-	(label "A1"
+	(label "A8"
 		(at 392.43 81.28 180)
 		(effects
 			(font
@@ -15832,7 +15832,7 @@
 		)
 		(uuid "97d91472-dc46-4bf6-9c03-8a63198a0e8a")
 	)
-	(label "M3"
+	(label "M10"
 		(at 392.43 139.7 180)
 		(effects
 			(font
@@ -15852,7 +15852,7 @@
 		)
 		(uuid "987b27e4-ce4c-4c45-8f51-61a4d05b31c3")
 	)
-	(label "A6"
+	(label "A2"
 		(at 392.43 170.18 180)
 		(effects
 			(font
@@ -15972,7 +15972,7 @@
 		)
 		(uuid "bd3ee141-9b1c-4efa-b941-f00c4932d66c")
 	)
-	(label "A3"
+	(label "A6"
 		(at 392.43 86.36 180)
 		(effects
 			(font
@@ -16022,7 +16022,7 @@
 		)
 		(uuid "c4360c37-d955-40eb-b240-98e5db1f57ab")
 	)
-	(label "M8"
+	(label "M11"
 		(at 393.7 175.26 180)
 		(effects
 			(font
@@ -16122,7 +16122,7 @@
 		)
 		(uuid "d922dbf5-6164-4b18-b372-bc6d3fc9556e")
 	)
-	(label "M2"
+	(label "M8"
 		(at 339.09 129.54 0)
 		(effects
 			(font
@@ -25422,10 +25422,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "84e45874-2b26-4898-bf27-e3b2bb179bc7")
+			(uuid "84e45874-2b26-4898-bf27-e3b2bb179bc8")
 		)
 		(pin "1"
-			(uuid "17ff726d-ca31-4338-a3f0-3aa3226c2659")
+			(uuid "17ff726d-ca31-4338-a3f0-3aa3226c265a")
 		)
 		(instances
 			(project ""
@@ -25630,10 +25630,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "0581580b-d06e-4aaa-be19-a9754b51543f")
+			(uuid "0581580b-d06e-4aaa-be19-a9754b515440")
 		)
 		(pin "2"
-			(uuid "9c47fffb-ff50-49e2-a713-361d5fb73465")
+			(uuid "9c47fffb-ff50-49e2-a713-361d5fb73466")
 		)
 		(instances
 			(project ""
@@ -25898,10 +25898,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "fc2ac0bd-570e-40d0-a2bc-90d8152f8b4e")
+			(uuid "fc2ac0bd-570e-40d0-a2bc-90d8152f8b4f")
 		)
 		(pin "1"
-			(uuid "354e4de2-c492-4e10-bc38-61f6ced51194")
+			(uuid "354e4de2-c492-4e10-bc38-61f6ced51195")
 		)
 		(instances
 			(project ""
