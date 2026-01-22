@@ -1,4 +1,4 @@
-26790329104905554
+26792097943192586
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106399,6 +106399,13 @@ LGA-16_L3.0-W3.0-P0.50-BL_SQ
 0
 16
 16
+lcsc
+LGA-16_L6.8-W4.0-P0.65-TL-2EP
+
+
+0
+18
+18
 lcsc
 OSC-TH_BD2.0-P0.70-D0.3
 
